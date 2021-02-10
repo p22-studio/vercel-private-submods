@@ -1,0 +1,8 @@
+{
+  "name": "vercel-private-submods",
+  "version": "0.1.0",
+  "repository": "https://github.com/p22-studio/vercel-private-submods",
+  "author": "Jake Crosby <jake@jake.nz>",
+  "license": "MIT",
+  "bin": "./vercel-private-submods.sh"
+}
